@@ -1,6 +1,4 @@
-Time and Location: 9/18/2019, Wed., 10:30 a.m., CS Conference Room 206
 
-Speaker: Mr. Jie Li
 
 Title: Monitoring Power Usage of Jobs Running on Quanah Cluster
 
